@@ -42,7 +42,7 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/keyboard-key-z-128x127.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
